@@ -1,0 +1,10 @@
+Site escolhido : https://detran.pb.gov.br/
+
+
+Responsividade : Site no geral se comportou bem ao mudar sua resolução, porém a um pequeno erro na parte de “Serviços online”, onde os ícones são diminuídos, ficando um pouco desproporcional ; 
+
+
+Erros no geral : 
+→ Foi encontrado um erro 302, que significa que o recurso foi temporariamente movido para a URL informada pelo cabeçalho na localização ; 
+→ Foi encontrado um código 204, que significa que o servidor processou a solicitação com sucesso, porém não vai devolver nenhum conteúdo ; 
+→ Foi encontrado um código 301, que significa que a localização do recurso solicitado foi permanentemente alterada.

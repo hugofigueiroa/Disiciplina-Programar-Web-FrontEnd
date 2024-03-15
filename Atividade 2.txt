@@ -1,0 +1,11 @@
+-> O site deverá ser estruturado em tabelas , visto que não utilizará CSS para sua estilização ; 
+-> A plataforma deverá ter conteúdos básicos de programação, para os usuários que estiverem começando agora, ter um ponto de partida ; 
+-> O público alvo será pessoas de baixa renda, que não podem pagar universidade ou cursos ; 
+-> A plataforma deve ensinar apenas o BackEnd, utilizando as linguagens : Java, Python e PHP ;
+-> A página HOME, deve ensinar o que é programação, programação BackEnd e deve listar o que um bom desenvolvedor deve ter ;
+-> Deve ser listado um pouco da história de cada linguagem de programação abordada na plataforma ; 
+-> Deve ser utilizado comentários no código, de modo que facilite o entendimento para manutenção do site ; 
+-> As imagens devem ser organizadas em pastas, onde cada uma representa, visto que organização é fundamental ;  
+-> A plataforma deve ser capaz de cadastrar novos usuários, com os seguintes dados : Nome completo, email, senha, endereço e idade ;
+-> A tela de login deve conter apenas os campos email, e senha, e um checkbox para o usuário manter-se conectado ou não ; 
+-> Deve haver um campo no site (“além do código”), onde será apresentado ao usuário habilidade de soft e hard skills que serão um diferencial no mercado de trabalho ; 
