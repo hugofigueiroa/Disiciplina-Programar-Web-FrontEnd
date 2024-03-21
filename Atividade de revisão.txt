@@ -1,0 +1,15 @@
+1. Principal protocolo de comunicação utilizado para transferir informações entre clientes e servidores web ; 
+2. Cliente é o software usado pelos usuários para acessar e interagir com os recursos disponíveis na web. Servidor web é um software executado em um computador remoto que hospeda e fornece recursos da web aos clientes ; 
+3. Quando um formulário é submetido usando o método GET, os dados do formulário são anexados à URL. Já quando é submetido ao POST, os dados do formulário são enviados no corpo da requisição HTTP ; 
+4. Semântica, formulários aprimorados, áudio e vídeo embutidos, armazenamento local ; 
+5. <!DOCTYPE html>, <html>, <head>, <meta>, <title>, <body> ; 
+6. A lista ordenadas, são exibidas em uma sequência de números ou letras, a lista não ordenada não tem sequência ; 
+7. <strong>, <i>, <u>, etc ; 
+8. src=”” que representa o endereço da imagem, e alt=””, que representa um título alternativo para caso a imagem não seja carregada ; 
+9. Para criar uma lista ordenada deve se criar uma tag <ol> e cada item da lista deve estar dentro de um <li>. Para criar uma lista ordenada deve se criar uma tag <ul> e cada item da lista deve estar dentro de um <li>. 
+10. Cria-se uma tag table, o cabeçalho deve estar dentro de uma tag <thead>, o corpo deve estar dentro de uma tag <tbody>, cada linha deve ser representada pela tag <tr>, e cada coluna pela tag <td> ; 
+11. A tag <form> e a tag <input> ; 
+12. Article-conteúdo, aside-barras laterais, footer-rodapé, header-cabeçalho, main-conteúdo principal, nav-navegação, section-agrupar conteúdo relacionado; 
+13. Utilizando o elemento <video> e dentro dele uma tag <source> com os atributos src e type ; 
+14. O atributo “alt”, o elemento <strong>, etc
+15. Input do tipo texto, um select com as tags option, e um button de type submit ; 
